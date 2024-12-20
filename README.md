@@ -19,7 +19,7 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itou-rui&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
@@ -27,7 +27,7 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2024
+> 🏆 13 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,8 +39,8 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                2 commits           ██████████░░░░░░░░░░░░░░░   40.00 % 
-🌃 Evening                3 commits           ███████████████░░░░░░░░░░   60.00 % 
+🌆 Daytime                2 commits           ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌃 Evening                5 commits           ██████████████████░░░░░░░   71.43 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -51,22 +51,22 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Lua                      8 hrs 34 mins       ███████████████░░░░░░░░░░   61.19 % 
-Bash                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Lua                      10 hrs 9 mins       ████████████████░░░░░░░░░   63.40 % 
+Bash                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Markdown                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+TypeScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🐱‍💻 Projects: 
-nvim                     8 hrs 38 mins       ███████████████░░░░░░░░░░   61.71 % 
-fullstack-turborepo-start2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-zsh                      2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-itou-rui                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+nvim                     10 hrs 39 mins      █████████████████░░░░░░░░   66.53 % 
+fullstack-turborepo-start2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+zsh                      2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+itou-rui                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
 
- Last Updated on 19/12/2024 13:16:19 UTC
+ Last Updated on 20/12/2024 13:03:21 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
