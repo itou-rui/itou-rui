@@ -66,7 +66,7 @@ nvim                     2 hrs 1 min         ███████████�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 15 December 2024 - To: 24 December 2024
+From: 15 December 2024 - To: 25 December 2024
 
 Total Time: 16 hrs 2 mins
 
