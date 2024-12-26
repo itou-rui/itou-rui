@@ -27,7 +27,7 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2024
+> 🏆 25 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,8 +39,8 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-🌃 Evening                15 commits          ██████████████████████░░░   88.24 % 
+🌆 Daytime                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+🌃 Evening                17 commits          ██████████████████████░░░   89.47 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -51,22 +51,16 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Lua                      8 hrs 9 mins        ███████████████████████░░   90.57 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-tmux                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Lua                      1 hr 35 mins        ████████████████████░░░░░   78.69 % 
+Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-nvim                     8 hrs 38 mins       ████████████████████████░   95.78 % 
-zsh                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-fullstack-turborepo-start4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-tmux                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+nvim                     2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/12/2024 13:01:29 UTC
+ Last Updated on 26/12/2024 13:03:19 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
