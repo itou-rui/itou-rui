@@ -19,7 +19,7 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itou-rui&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
@@ -27,7 +27,7 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
+> 🏆 14 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,9 +39,9 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-🌃 Evening                41 commits          ████████████████████████░   95.35 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+🌃 Evening                42 commits          ███████████████████████░░   93.33 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -51,14 +51,21 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 24 mins       ██████████████░░░░░░░░░░░   57.14 % 
+JavaScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Nginx configuration file 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fullstack-turborepo-start3 hrs 59 mins       ████████████████████████░   94.78 % 
+dapps                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+turborepo-nestjs-starter 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+nvim                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 
- Last Updated on 07/01/2025 13:04:59 UTC
+ Last Updated on 08/01/2025 13:04:29 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
