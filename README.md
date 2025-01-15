@@ -27,8 +27,6 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -39,9 +37,9 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-🌃 Evening                54 commits          ████████████████████████░   94.74 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+🌆 Daytime                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+🌃 Evening                56 commits          ████████████████████████░   94.92 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
@@ -51,21 +49,22 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.32 % 
-JavaScript               3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-JSON                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-TSConfig                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TypeScript               5 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.23 % 
+JavaScript               4 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.94 % 
+JSON                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Docker                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+TSConfig                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🐱‍💻 Projects: 
-fullstack-turborepo-start11 hrs              ███████████████████████░░   90.88 % 
-app-router-with-critical-50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-dapps                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-turborepo-nestjs-starter 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+fullstack-turborepo-start11 hrs 40 mins      ██████████████████████░░░   89.69 % 
+app-router-with-critical-54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+dapps                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+nvim                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+turborepo-nestjs-starter 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 14/01/2025 12:34:23 UTC
+ Last Updated on 15/01/2025 12:34:27 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
