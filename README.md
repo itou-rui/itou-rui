@@ -19,15 +19,13 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itou-rui&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 38 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,9 +37,9 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-🌃 Evening                66 commits          ████████████████████████░   95.65 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+🌆 Daytime                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+🌃 Evening                68 commits          ████████████████████████░   95.77 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
@@ -66,7 +64,7 @@ app-router-with-critical-3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/01/2025 12:30:52 UTC
+ Last Updated on 19/01/2025 12:30:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
