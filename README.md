@@ -70,7 +70,7 @@ app-router-with-critical-3 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 15 December 2024 - To: 17 January 2025
+From: 15 December 2024 - To: 18 January 2025
 
 Total Time: 53 hrs 30 mins
 
