@@ -27,7 +27,7 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 637 Contributions in the Year 2025
+> 🏆 639 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,10 +38,10 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-🌆 Daytime                168 commits         ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-🌃 Evening                375 commits         ███████████████░░░░░░░░░░   61.27 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+🌞 Morning                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+🌆 Daytime                168 commits         ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+🌃 Evening                377 commits         ███████████████░░░░░░░░░░   61.40 % 
+🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -51,22 +51,22 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               18 hrs 20 mins      █████████████████░░░░░░░░   66.31 % 
-Lua                      6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Markdown                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-YAML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+TypeScript               15 hrs 11 mins      ████████████████░░░░░░░░░   65.84 % 
+Lua                      5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Markdown                 1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🐱‍💻 Projects: 
-turborepo-fullstack-start20 hrs 6 mins       ██████████████████░░░░░░░   72.68 % 
-config                   7 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-CopilotChat.nvim         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+turborepo-fullstack-start15 hrs 57 mins      █████████████████░░░░░░░░   69.17 % 
+config                   6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+CopilotChat.nvim         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 24/02/2025 12:37:00 UTC
+ Last Updated on 25/02/2025 12:36:38 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
