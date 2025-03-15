@@ -27,8 +27,6 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 749 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -38,9 +36,9 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-🌆 Daytime                345 commits         ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-🌃 Evening                718 commits         ███████████████░░░░░░░░░░   59.05 % 
+🌞 Morning                121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+🌆 Daytime                345 commits         ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+🌃 Evening                720 commits         ███████████████░░░░░░░░░░   59.11 % 
 🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
@@ -51,20 +49,19 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               17 hrs 48 mins      ███████████████████████░░   90.40 % 
-Lua                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-gitignore                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TypeScript               12 hrs 22 mins      ███████████████████████░░   90.38 % 
+Lua                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+gitignore                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🐱‍💻 Projects: 
-turborepo-fullstack-start18 hrs 29 mins      ███████████████████████░░   93.83 % 
-config                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+turborepo-fullstack-start12 hrs 41 mins      ███████████████████████░░   92.66 % 
+config                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 ```
 
 
- Last Updated on 14/03/2025 12:35:59 UTC
+ Last Updated on 15/03/2025 12:33:36 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
