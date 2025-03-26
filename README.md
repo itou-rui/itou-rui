@@ -70,7 +70,7 @@ dapps                    2 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 15 December 2024 - To: 24 March 2025
+From: 15 December 2024 - To: 25 March 2025
 
 Total Time: 360 hrs 18 mins
 
