@@ -21,13 +21,11 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2020%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 820 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,10 +36,10 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-🌆 Daytime                418 commits         ████████░░░░░░░░░░░░░░░░░   31.74 % 
-🌃 Evening                736 commits         ██████████████░░░░░░░░░░░   55.88 % 
-🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+🌞 Morning                131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+🌆 Daytime                418 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌃 Evening                742 commits         ██████████████░░░░░░░░░░░   56.08 % 
+🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 
@@ -51,14 +49,14 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Lua                      2 mins              █████████████████████████   100.00 % 
+Lua                      1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-config                   2 mins              █████████████████████████   100.00 % 
+config                   1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2025 12:39:12 UTC
+ Last Updated on 01/04/2025 12:39:59 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
