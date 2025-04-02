@@ -21,11 +21,13 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2020%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 830 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,10 +38,10 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-🌆 Daytime                418 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
-🌃 Evening                742 commits         ██████████████░░░░░░░░░░░   56.08 % 
-🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+🌞 Morning                132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+🌆 Daytime                419 commits         ████████░░░░░░░░░░░░░░░░░   31.57 % 
+🌃 Evening                744 commits         ██████████████░░░░░░░░░░░   56.07 % 
+🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 
@@ -49,14 +51,16 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Lua                      1 min               █████████████████████████   100.00 % 
+Lua                      1 hr 52 mins        ████████████████████████░   95.41 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🐱‍💻 Projects: 
-config                   1 min               █████████████████████████   100.00 % 
+config                   1 hr 56 mins        █████████████████████████   99.57 % 
+turborepo-fullstack-start0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 
- Last Updated on 01/04/2025 12:39:59 UTC
+ Last Updated on 02/04/2025 12:39:19 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
