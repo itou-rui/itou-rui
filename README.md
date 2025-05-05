@@ -27,8 +27,6 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 976 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -38,9 +36,9 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-🌆 Daytime                392 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-🌃 Evening                894 commits         ███████████████░░░░░░░░░░   60.77 % 
+🌞 Morning                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+🌆 Daytime                392 commits         ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+🌃 Evening                896 commits         ███████████████░░░░░░░░░░   60.79 % 
 🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
 
@@ -51,20 +49,16 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 39 mins       █████████████░░░░░░░░░░░░   50.05 % 
-Markdown                 1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-YAML                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Lua                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript               2 hrs 39 mins       █████████████████████████   99.68 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-config                   2 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.79 % 
-turborepo-fullstack-start2 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.14 % 
-main-app                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+turborepo-fullstack-start2 hrs 27 mins       ███████████████████████░░   91.89 % 
+main-app                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
 
 
- Last Updated on 04/05/2025 12:08:30 UTC
+ Last Updated on 05/05/2025 12:09:29 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
