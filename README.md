@@ -27,6 +27,8 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 981 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -36,9 +38,9 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-🌆 Daytime                392 commits         ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-🌃 Evening                896 commits         ███████████████░░░░░░░░░░   60.79 % 
+🌞 Morning                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+🌆 Daytime                392 commits         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+🌃 Evening                898 commits         ███████████████░░░░░░░░░░   60.84 % 
 🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
 
@@ -49,16 +51,19 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 39 mins       █████████████████████████   99.68 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+C                        2 hrs 10 mins       ████████████████░░░░░░░░░   65.66 % 
+Makefile                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+C++                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-turborepo-fullstack-start2 hrs 27 mins       ███████████████████████░░   91.89 % 
-main-app                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Unknown Project          3 hrs 19 mins       █████████████████████████   99.94 % 
+turborepo-fullstack-start0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 
- Last Updated on 05/05/2025 12:09:29 UTC
+ Last Updated on 06/05/2025 12:10:21 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
