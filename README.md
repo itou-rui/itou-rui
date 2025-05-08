@@ -19,15 +19,13 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itou-rui&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 986 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,10 +36,10 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-🌆 Daytime                392 commits         ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-🌃 Evening                903 commits         ███████████████░░░░░░░░░░   60.97 % 
-🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+🌞 Morning                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+🌆 Daytime                393 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+🌃 Evening                911 commits         ███████████████░░░░░░░░░░   61.14 % 
+🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 
@@ -51,20 +49,19 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C                        3 hrs 4 mins        ███████████████░░░░░░░░░░   59.45 % 
+C                        3 hrs 4 mins        ███████████████░░░░░░░░░░   59.47 % 
 Makefile                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
 Lua                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 40 mins       ███████████████████████░░   90.27 % 
+Unknown Project          4 hrs 40 mins       ███████████████████████░░   90.31 % 
 config                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-turborepo-fullstack-start0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
- Last Updated on 07/05/2025 12:09:49 UTC
+ Last Updated on 08/05/2025 12:09:30 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
