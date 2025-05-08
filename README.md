@@ -67,7 +67,7 @@ config                   30 mins             ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 15 December 2024 - To: 06 May 2025
+From: 15 December 2024 - To: 07 May 2025
 
 Total Time: 438 hrs 15 mins
 
