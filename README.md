@@ -27,7 +27,7 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,162 Contributions in the Year 2025
+> 🏆 1,164 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,10 +38,10 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-🌆 Daytime                533 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-🌃 Evening                1106 commits        ██████████████░░░░░░░░░░░   57.04 % 
-🌙 Night                  69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+🌞 Morning                231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+🌆 Daytime                533 commits         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+🌃 Evening                1108 commits        ██████████████░░░░░░░░░░░   57.08 % 
+🌙 Night                  69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 
 
@@ -51,21 +51,20 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Lua                      3 hrs 19 mins       █████████████░░░░░░░░░░░░   50.50 % 
-Markdown                 1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-TOML                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-ghostty                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-gitignore                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Lua                      2 hrs 5 mins        ███████████████████░░░░░░   77.33 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+gitignore                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🐱‍💻 Projects: 
-config                   6 hrs 24 mins       ████████████████████████░   97.26 % 
-turborepo-fullstack-start6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-homebrew                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+config                   2 hrs 33 mins       ████████████████████████░   94.51 % 
+turborepo-fullstack-start6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+homebrew                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
- Last Updated on 07/06/2025 12:08:32 UTC
+ Last Updated on 08/06/2025 12:08:51 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
