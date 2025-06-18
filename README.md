@@ -27,7 +27,7 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,182 Contributions in the Year 2025
+> 🏆 1,184 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,10 +38,10 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-🌆 Daytime                537 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-🌃 Evening                1126 commits        ██████████████░░░░░░░░░░░   57.24 % 
-🌙 Night                  69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+🌞 Morning                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+🌆 Daytime                538 commits         ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+🌃 Evening                1128 commits        ██████████████░░░░░░░░░░░   57.26 % 
+🌙 Night                  69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 
 
@@ -51,19 +51,18 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Lua                      1 hr 36 mins        ███████████████████░░░░░░   76.17 % 
-TypeScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-gitignore                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Lua                      52 mins             ████████████████████░░░░░   81.77 % 
+TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-config                   1 hr 45 mins        █████████████████████░░░░   83.00 % 
-turborepo-fullstack-start21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+config                   52 mins             █████████████████████░░░░   82.71 % 
+turborepo-fullstack-start11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
 ```
 
 
- Last Updated on 17/06/2025 12:10:27 UTC
+ Last Updated on 18/06/2025 12:10:20 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
