@@ -71,7 +71,7 @@ LazyVim                  1 min               ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 15 December 2024 - To: 19 June 2025
+From: 15 December 2024 - To: 20 June 2025
 
 Total Time: 619 hrs 54 mins
 
