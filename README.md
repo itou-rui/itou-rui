@@ -21,13 +21,13 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2036%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-455.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-455.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,213 Contributions in the Year 2025
+> 🏆 1,215 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,10 +38,10 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-🌆 Daytime                543 commits         ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-🌃 Evening                1161 commits        ██████████████░░░░░░░░░░░   57.65 % 
-🌙 Night                  70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+🌞 Morning                240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+🌆 Daytime                543 commits         ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+🌃 Evening                1180 commits        ███████████████░░░░░░░░░░   58.04 % 
+🌙 Night                  70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 
 
@@ -51,22 +51,22 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Lua                      6 hrs 13 mins       ███████████████████░░░░░░   75.94 % 
-JSON                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Jinja                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-conf                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Lua                      8 hrs 12 mins       ████████████████████░░░░░   80.69 % 
+Jinja                    1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-config                   7 hrs 55 mins       ████████████████████████░   96.75 % 
-avante.nvim              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-mcphub.nvim              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-turborepo-fullstack-start4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+config                   9 hrs 54 mins       ████████████████████████░   97.28 % 
+turborepo-fullstack-start9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+avante.nvim              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+mcphub.nvim              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
- Last Updated on 03/07/2025 12:10:28 UTC
+ Last Updated on 04/07/2025 12:09:56 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
