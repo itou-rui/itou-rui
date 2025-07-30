@@ -27,7 +27,7 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,333 Contributions in the Year 2025
+> 🏆 1,335 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,10 +38,10 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-🌆 Daytime                598 commits         ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-🌃 Evening                1282 commits        ██████████████░░░░░░░░░░░   56.93 % 
-🌙 Night                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌞 Morning                266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+🌆 Daytime                598 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+🌃 Evening                1285 commits        ██████████████░░░░░░░░░░░   56.98 % 
+🌙 Night                  106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
 
@@ -51,22 +51,22 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               10 hrs 2 mins       ████████████░░░░░░░░░░░░░   46.02 % 
-Markdown                 5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Jinja                    3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-YAML                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Lua                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               8 hrs 14 mins       ██████████████░░░░░░░░░░░   54.99 % 
+Markdown                 4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Jinja                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🐱‍💻 Projects: 
-turborepo-starter        20 hrs 49 mins      ████████████████████████░   95.45 % 
-config                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-main-app                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+turborepo-starter        14 hrs 32 mins      ████████████████████████░   97.09 % 
+main-app                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+config                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
- Last Updated on 29/07/2025 12:11:19 UTC
+ Last Updated on 30/07/2025 12:11:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
