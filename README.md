@@ -27,8 +27,6 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,350 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -38,9 +36,9 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-🌆 Daytime                674 commits         ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-🌃 Evening                1319 commits        ██████████████░░░░░░░░░░░   56.20 % 
+🌞 Morning                274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+🌆 Daytime                674 commits         ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+🌃 Evening                1321 commits        ██████████████░░░░░░░░░░░   56.24 % 
 🌙 Night                  80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 
@@ -51,22 +49,22 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 6 mins        ████████████████░░░░░░░░░   62.08 % 
-Bash                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Docker                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+TypeScript               1 hr 44 mins        █████████████████░░░░░░░░   67.10 % 
+Docker                   28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🐱‍💻 Projects: 
-turborepo-starter        4 hrs 15 mins       █████████████████████░░░░   85.35 % 
-portfolio                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-main-app                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-turborepo-fullstack-start6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-dapps                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+turborepo-starter        1 hr 56 mins        ███████████████████░░░░░░   75.16 % 
+portfolio                24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+main-app                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+turborepo-fullstack-start6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+dapps                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 
- Last Updated on 05/08/2025 12:11:40 UTC
+ Last Updated on 06/08/2025 12:11:26 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
