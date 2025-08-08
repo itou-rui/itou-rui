@@ -21,13 +21,13 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2031%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-522.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-564.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,354 Contributions in the Year 2025
+> 🏆 1,356 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,10 +38,10 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-🌆 Daytime                674 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-🌃 Evening                1323 commits        ██████████████░░░░░░░░░░░   56.27 % 
-🌙 Night                  80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+🌞 Morning                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌆 Daytime                748 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌃 Evening                1371 commits        ██████████████░░░░░░░░░░░   54.99 % 
+🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 ```
 
 
@@ -51,21 +51,14 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        ████████████████████░░░░░   78.98 % 
-Docker                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-turborepo-starter        1 hr 56 mins        ██████████████████████░░░   89.97 % 
-main-app                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-turborepo-fullstack-start5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-portfolio                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2025 12:11:19 UTC
+ Last Updated on 08/08/2025 12:10:59 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
