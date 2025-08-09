@@ -21,13 +21,13 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2031%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-564.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,356 Contributions in the Year 2025
+> 🏆 1,361 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,10 +38,10 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-🌆 Daytime                748 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
-🌃 Evening                1371 commits        ██████████████░░░░░░░░░░░   54.99 % 
-🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+🌞 Morning                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+🌆 Daytime                748 commits         ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+🌃 Evening                1375 commits        ██████████████░░░░░░░░░░░   55.07 % 
+🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 
 
@@ -51,14 +51,19 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 23 mins       █████████████████░░░░░░░░   69.10 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Jinja                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+turborepo-starter        3 hrs 19 mins       ████████████████████████░   96.03 % 
+Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 ```
 
 
- Last Updated on 08/08/2025 12:10:59 UTC
+ Last Updated on 09/08/2025 12:09:21 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
