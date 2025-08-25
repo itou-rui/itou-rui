@@ -27,7 +27,7 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,558 Contributions in the Year 2025
+> 🏆 1,560 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,9 +38,9 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-🌆 Daytime                687 commits         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-🌃 Evening                1620 commits        ███████████████░░░░░░░░░░   59.98 % 
+🌞 Morning                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+🌆 Daytime                687 commits         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+🌃 Evening                1622 commits        ███████████████░░░░░░░░░░   60.01 % 
 🌙 Night                  104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
@@ -51,21 +51,20 @@ We specialize in TypeScript, but can learn a variety of languages through resear
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               9 hrs 34 mins       ████████████████████░░░░░   78.90 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+TypeScript               11 hrs 4 mins       ███████████████████████░░   93.91 % 
+Docker                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-portfolio                11 hrs 47 mins      ████████████████████████░   97.11 % 
-Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-dapps                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-turborepo-fullstack-start0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+portfolio                11 hrs 37 mins      █████████████████████████   98.48 % 
+dapps                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 24/08/2025 12:09:22 UTC
+ Last Updated on 25/08/2025 12:10:38 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
